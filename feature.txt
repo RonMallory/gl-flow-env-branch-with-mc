@@ -1,1 +1,1 @@
-commit from hotfix/fix1
+commit from some new feature
